@@ -1,0 +1,14 @@
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\bin\Debug\net6.0\fruit.exe
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\bin\Debug\net6.0\fruit.deps.json
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\bin\Debug\net6.0\fruit.runtimeconfig.json
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\bin\Debug\net6.0\fruit.dll
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\bin\Debug\net6.0\fruit.pdb
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\obj\Debug\net6.0\fruit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\obj\Debug\net6.0\fruit.AssemblyInfoInputs.cache
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\obj\Debug\net6.0\fruit.AssemblyInfo.cs
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\obj\Debug\net6.0\fruit.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\obj\Debug\net6.0\fruit.dll
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\obj\Debug\net6.0\refint\fruit.dll
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\obj\Debug\net6.0\fruit.pdb
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\obj\Debug\net6.0\fruit.genruntimeconfig.cache
+C:\Users\ca.r214.09\Desktop\Rauf\fruit\fruit\obj\Debug\net6.0\ref\fruit.dll
